@@ -11,7 +11,7 @@
 ---
 
 ### 🔥 About Me
-- 👋 Hi, I’m @safioananda-md5
+- 👋 Hi, I’m @safioananda-md5 a.k.a Kharisma Safio Ananda or you can call me Safio
 - 👀 I’m interested in programming
 - ⚡ Fun fact: I like to be alone.
 
